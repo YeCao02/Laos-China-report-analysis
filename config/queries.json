@@ -1,0 +1,7 @@
+{
+  "snapshot": {"start": "2012-01-01", "end": "2026-08-07"},
+  "lao_direct": ["ຈີນ", "ສປ ຈີນ", "ສປຈີນ", "ລາວ-ຈີນ", "ຈີນ-ລາວ", "ລາວ ຈີນ", "ຈີນ ລາວ"],
+  "english_direct": ["China", "Chinese", "Lao-China", "Laos-China", "China-Laos"],
+  "expanded": ["Xi Jinping", "习近平", "Laos-China Railway", "中老铁路", "Boten", "磨丁", "Yunnan", "云南", "Belt and Road", "一带一路", "Lancang-Mekong", "澜湄合作", "Chinese investment", "Chinese company"],
+  "rule": "Expanded terms require topical review before sample eligibility."
+}

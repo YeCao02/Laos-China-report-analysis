@@ -270,7 +270,7 @@ src/laos_china_corpus/
 ├─ quality.py      # 数据质量检查
 └─ cli.py          # 命令行入口
 
-scripts/           # 专项历史恢复、审计、报告与移交工具
+scripts/           # 专项现站采集、历史探测与外部OCR入口
 tests/             # 单元测试和最小解析fixture
 config/            # 来源与关键词配置参考
 ```

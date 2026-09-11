@@ -1,0 +1,18 @@
+{
+  "KPL": {
+    "current_domains": ["kpl.gov.la"],
+    "historical_domains": ["kpl.net.la"],
+    "languages": ["lo", "en"],
+    "rate_limit_requests_per_second": 1,
+    "max_concurrency_per_domain": 1,
+    "historical_priority": "2012-2020"
+  },
+  "PASAXON": {
+    "current_domains": ["pasaxon.org.la"],
+    "languages": ["lo"],
+    "entry_points": ["search", "tags", "epaper"],
+    "rate_limit_requests_per_second": 1,
+    "max_concurrency_per_domain": 1,
+    "historical_priority": "2012-2020"
+  }
+}
